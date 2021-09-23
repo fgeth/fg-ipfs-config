@@ -9,7 +9,7 @@ go-ipfs-config
 
 > Go-ipfs configuration datastructure.
 
-Documentation lives in the go-ipfs repo: [docs/config.md](https://github.com/ipfs/go-ipfs/blob/master/docs/config.md).
+Documentation lives in the go-ipfs repo: [docs/config.md](https://github.com/fgeth/fg-ipfs/blob/master/docs/config.md).
 
 ## Table of Contents
 
